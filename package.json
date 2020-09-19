@@ -1,0 +1,24 @@
+{
+  "name": "rwandaonblockchain",
+  "version": "1.0.0",
+  "description": "an e-governance app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexaBlack/rwandaonblockchain.git"
+  },
+  "keywords": [
+    "government",
+    "blockchain",
+    "e-rwanda"
+  ],
+  "author": "axelkayonga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexaBlack/rwandaonblockchain/issues"
+  },
+  "homepage": "https://github.com/lexaBlack/rwandaonblockchain#readme"
+}
