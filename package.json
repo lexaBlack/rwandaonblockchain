@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/lexaBlack/rwandaonblockchain/issues"
   },
-  "homepage": "https://github.com/lexaBlack/rwandaonblockchain#readme"
+  "homepage": "https://github.com/lexaBlack/rwandaonblockchain#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
 }
